@@ -12,5 +12,9 @@ target/
 **/.idea/
 *.iml
 .mvn/
+!.mvn/
+!.mvn/wrapper/
+!.mvn/wrapper/maven-wrapper.properties
+!.mvn/wrapper/maven-wrapper.jar
 .kotlintest
 **/.DS_Store
